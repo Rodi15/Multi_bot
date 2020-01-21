@@ -1,0 +1,21 @@
+{
+	"private": true,
+	"dependencies": {
+		"canvas": "latest",
+		"core-util-is": "^1.0.2",
+		"discord.js": "^11.5.1",
+		"enmap": "^5.2.1",
+		"ffbinaries": "latest",
+		"ffmpeg-binaries": "^4.0.0",
+		"fs": "latest",
+		"moment": "^2.24.0",
+		"node-html-parser": "latest",
+		"node-opus": "^0.3.1",
+		"opusscript": "0.0.7",
+		"request": "latest",
+		"rss-parser": "latest",
+		"strftime": "^0.10.0",
+		"websocket": "^1.0.30",
+		"ytdl-core": "^0.20.4"
+	}
+}
