@@ -10,7 +10,7 @@ client.fs = fs;
 
 
 console.log(`Библиотеки подключены!\n`);
-client.login("NjQyMDA1ODcxNjA5NTExOTM2.XcQr4A.7I1MDP86KpoZB6VJQBo2jDu8wTg");
+client.login("TOKEN");
 
 
 client.on('message', message => {
